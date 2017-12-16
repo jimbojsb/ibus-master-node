@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/josh/.platformio/penv/bin:/Users/josh/.dope/bin:/Users/josh/.composer/vendor/bin:/usr/local/bin:/usr/local/sbin:/Users/josh/projects/go/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+    }
+}
